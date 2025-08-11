@@ -1,5 +1,5 @@
 # README.md
-<h1 align="center">Olá, eu sou [SEU NOME] 👋</h1>
+<h1 align="center">Olá, eu sou Igor Melo 👋</h1>
 <h3 align="center">Um entusiasta de tecnologia e desenvolvedor(a) em formação.</h3>
 
 ---
